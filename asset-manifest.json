@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/chelladurai-1997/xlsx-parser-report/static/css/main.e8a33871.chunk.css",
-    "main.js": "/chelladurai-1997/xlsx-parser-report/static/js/main.62a027b1.chunk.js",
-    "main.js.map": "/chelladurai-1997/xlsx-parser-report/static/js/main.62a027b1.chunk.js.map",
-    "runtime-main.js": "/chelladurai-1997/xlsx-parser-report/static/js/runtime-main.12092eb2.js",
-    "runtime-main.js.map": "/chelladurai-1997/xlsx-parser-report/static/js/runtime-main.12092eb2.js.map",
-    "static/js/2.ac77daca.chunk.js": "/chelladurai-1997/xlsx-parser-report/static/js/2.ac77daca.chunk.js",
-    "static/js/2.ac77daca.chunk.js.map": "/chelladurai-1997/xlsx-parser-report/static/js/2.ac77daca.chunk.js.map",
-    "static/js/3.ad15d685.chunk.js": "/chelladurai-1997/xlsx-parser-report/static/js/3.ad15d685.chunk.js",
-    "static/js/3.ad15d685.chunk.js.map": "/chelladurai-1997/xlsx-parser-report/static/js/3.ad15d685.chunk.js.map",
-    "index.html": "/chelladurai-1997/xlsx-parser-report/index.html",
-    "static/css/main.e8a33871.chunk.css.map": "/chelladurai-1997/xlsx-parser-report/static/css/main.e8a33871.chunk.css.map",
-    "static/js/2.ac77daca.chunk.js.LICENSE.txt": "/chelladurai-1997/xlsx-parser-report/static/js/2.ac77daca.chunk.js.LICENSE.txt"
+    "main.css": "/xlsx-parser-report/static/css/main.e8a33871.chunk.css",
+    "main.js": "/xlsx-parser-report/static/js/main.62a027b1.chunk.js",
+    "main.js.map": "/xlsx-parser-report/static/js/main.62a027b1.chunk.js.map",
+    "runtime-main.js": "/xlsx-parser-report/static/js/runtime-main.1fc62d70.js",
+    "runtime-main.js.map": "/xlsx-parser-report/static/js/runtime-main.1fc62d70.js.map",
+    "static/js/2.ac77daca.chunk.js": "/xlsx-parser-report/static/js/2.ac77daca.chunk.js",
+    "static/js/2.ac77daca.chunk.js.map": "/xlsx-parser-report/static/js/2.ac77daca.chunk.js.map",
+    "static/js/3.ad15d685.chunk.js": "/xlsx-parser-report/static/js/3.ad15d685.chunk.js",
+    "static/js/3.ad15d685.chunk.js.map": "/xlsx-parser-report/static/js/3.ad15d685.chunk.js.map",
+    "index.html": "/xlsx-parser-report/index.html",
+    "static/css/main.e8a33871.chunk.css.map": "/xlsx-parser-report/static/css/main.e8a33871.chunk.css.map",
+    "static/js/2.ac77daca.chunk.js.LICENSE.txt": "/xlsx-parser-report/static/js/2.ac77daca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.12092eb2.js",
+    "static/js/runtime-main.1fc62d70.js",
     "static/js/2.ac77daca.chunk.js",
     "static/css/main.e8a33871.chunk.css",
     "static/js/main.62a027b1.chunk.js"
