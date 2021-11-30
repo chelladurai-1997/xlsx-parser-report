@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chelladurai-1997/xlsx-parser-report/static/css/main.e8a33871.chunk.css",
+    "main.js": "/chelladurai-1997/xlsx-parser-report/static/js/main.1250ea1d.chunk.js",
+    "main.js.map": "/chelladurai-1997/xlsx-parser-report/static/js/main.1250ea1d.chunk.js.map",
+    "runtime-main.js": "/chelladurai-1997/xlsx-parser-report/static/js/runtime-main.81b00808.js",
+    "runtime-main.js.map": "/chelladurai-1997/xlsx-parser-report/static/js/runtime-main.81b00808.js.map",
+    "static/js/2.390456bb.chunk.js": "/chelladurai-1997/xlsx-parser-report/static/js/2.390456bb.chunk.js",
+    "static/js/2.390456bb.chunk.js.map": "/chelladurai-1997/xlsx-parser-report/static/js/2.390456bb.chunk.js.map",
+    "static/js/3.fc484078.chunk.js": "/chelladurai-1997/xlsx-parser-report/static/js/3.fc484078.chunk.js",
+    "static/js/3.fc484078.chunk.js.map": "/chelladurai-1997/xlsx-parser-report/static/js/3.fc484078.chunk.js.map",
+    "index.html": "/chelladurai-1997/xlsx-parser-report/index.html",
+    "static/css/main.e8a33871.chunk.css.map": "/chelladurai-1997/xlsx-parser-report/static/css/main.e8a33871.chunk.css.map",
+    "static/js/2.390456bb.chunk.js.LICENSE.txt": "/chelladurai-1997/xlsx-parser-report/static/js/2.390456bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81b00808.js",
+    "static/js/2.390456bb.chunk.js",
+    "static/css/main.e8a33871.chunk.css",
+    "static/js/main.1250ea1d.chunk.js"
+  ]
+}
